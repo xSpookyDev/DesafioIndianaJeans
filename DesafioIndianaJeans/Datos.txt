@@ -1,0 +1,1 @@
+Producto{articulo='palanca', precio='3122', descripcion='bonita', codigo='312312', talla='32', color='azul'}
